@@ -1,5 +1,6 @@
 ### About me: 
 - R and GIS nerd, passionate about causal inference and geospatial analysis
+- Equally proficient in R and Stata, but now I intensively use R
 - Interested in Development and Environmental Economics
 - I am a second-year MSc student in Economics at HEC Lausanne, University of Lausanne
 
