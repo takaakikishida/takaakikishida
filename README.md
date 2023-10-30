@@ -1,4 +1,7 @@
-## About me: 
+### About me: 
+- R and GIS nerd, passionate about causal inference
+- Interested in Development and Environmental Economics
+- I am a second-year MSc student in Economics at HEC Lausanne, University of Lausanne
 
 <!--
 **TakaakiKishida/TakaakiKishida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
