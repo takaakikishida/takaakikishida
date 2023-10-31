@@ -5,7 +5,9 @@
 - Pursuing my MSc in Economics at HEC Lausanne, University of Lausanne.
 
 ### Featured works: 
-- Coming soon...!
+- [Research] [Deforestation, Child Health, and Education: New Evidence from Indonesia](https://csrdadps.com/api/files/4/43ee51dc-08b9-413e-a953-3d3e9a7e7c96.pdf) (2021, DP)
+- [R] [Solutions](https://github.com/TakaakiKishida/Textbook-Solution-Code-for-Quantitative-Social-Science-An-Introduction) for exercises from Kosuke Imai's [Quantitative Social Science](https://press.princeton.edu/books/quantitative-social-science). Created during my first year of master's in 2018.
+
 
 <!--
 **TakaakiKishida/TakaakiKishida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
