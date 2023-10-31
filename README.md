@@ -1,8 +1,7 @@
 ### About me: 
-- R and GIS enthusiast, diving deep into causal inference and geospatial analysis.
-- Equally adept with R and Stata; however, R is my current workhorse.
-- Engaged in Development and Environmental Economics research.
 - Pursuing my MSc in Economics at HEC Lausanne, University of Lausanne.
+- R and GIS enthusiast, diving deep into causal inference and geospatial analysis. Equally adept with Stata.
+- Engaged in Development and Environmental Economics research.
 
 ### Featured works: 
 - `Research` [Deforestation, Child Health, and Education: New Evidence from Indonesia](https://csrdadps.com/api/files/4/43ee51dc-08b9-413e-a953-3d3e9a7e7c96.pdf) (2021, DP)
