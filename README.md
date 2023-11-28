@@ -1,6 +1,6 @@
 ### About me: 
 - Pursuing my MSc in Economics at HEC Lausanne, University of Lausanne.
-- R and GIS enthusiast, diving deep into causal inference and geospatial analysis. Equally adept with Stata.
+- R and GIS enthusiast, diving deep into causal inference. Equally adept with Stata.
 - Engaged in Development and Environmental Economics research.
 
 ### Featured works: 
