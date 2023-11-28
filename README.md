@@ -6,7 +6,7 @@
 ### Featured works: 
 - `Research` [Deforestation, Child Health, and Education: New Evidence from Indonesia](https://csrdadps.com/api/files/4/43ee51dc-08b9-413e-a953-3d3e9a7e7c96.pdf) (2021, DP, currently R&R)
 - `R-GIS` Raster (GeoTiff/NetCDF) Analysis in R: An Example of Air Pollution (coming soon)
-- `R` [Solutions](https://github.com/TakaakiKishida/Textbook-Solution-Code-for-Quantitative-Social-Science-An-Introduction) for exercises from Kosuke Imai's [Quantitative Social Science](https://press.princeton.edu/books/quantitative-social-science). Created in the first year of learning R in 2018.
+- `R` [Solutions](https://github.com/TakaakiKishida/Textbook-Solution-Code-for-Quantitative-Social-Science-An-Introduction) for exercises from Kosuke Imai's [Quantitative Social Science](https://press.princeton.edu/books/quantitative-social-science). Created in the second year of learning R in 2018.
 
 
 <!--
