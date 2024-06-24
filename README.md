@@ -1,7 +1,6 @@
 ### About me: 
-- Pursuing my PhD in Economics at the Institute of Economics and Econometrics, University of Geneva.
 - R and GIS enthusiast, diving deep into causal inference. Equally adept with Stata.
-- Engaged in Development and Environmental Economics research.
+- Interested in Development and Environmental Economics.
 
 ### Featured works: 
 - `Research` [Deforestation, Child Health, and Education: New Evidence from Indonesia](https://csrdadps.com/api/files/4/43ee51dc-08b9-413e-a953-3d3e9a7e7c96.pdf) (2021, DP, currently R&R)
