@@ -1,5 +1,5 @@
 ### About me: 
-- Pursuing my MSc in Economics at HEC Lausanne, University of Lausanne.
+- Pursuing my PhD in Economics at Institute of Economics and Econometrics, University of Geneva.
 - R and GIS enthusiast, diving deep into causal inference. Equally adept with Stata.
 - Engaged in Development and Environmental Economics research.
 
