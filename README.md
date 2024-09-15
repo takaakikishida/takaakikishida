@@ -4,7 +4,7 @@
 - Interested in Development and Environmental Economics.
 
 ### Featured works: 
-- `Research` [Deforestation, Child Health, and Education: New Evidence from Indonesia](https://csrdadps.com/api/files/4/43ee51dc-08b9-413e-a953-3d3e9a7e7c96.pdf) (2021, DP, currently R&R)
+- `Article` [Deforestation and Children: Consequences for Paediatric Malaria and Educational Attainment in Indonesia](https://csrdadps.com/api/files/4/43ee51dc-08b9-413e-a953-3d3e9a7e7c96.pdf) (2024, JDS)
 
 ### Explorations in R: 
 - `Summary Stats` Several wrapper functions for quick and insightful summary statistics (see my [Gist](https://gist.github.com/takakishi/2d36ec78095087cc4ec711637442f22a))
