@@ -1,5 +1,5 @@
 ### About me: 
-- PhD student in Economics at the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/), University of Geneva.
+- PhD candidate in Economics at the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/), University of Geneva.
 - R and GIS enthusiast, diving deep into causal inference. Equally adept with Stata.
 - Interested in Development and Environmental Economics.
 
@@ -9,7 +9,7 @@
 ### Explorations in R: 
 - `Summary Stats` [{easysum}](https://github.com/takakishi/easysum) has several wrapper functions for quick and insightful summary statistics.
 - `R-GIS` Raster (GeoTiff/NetCDF) Analysis in R: An Example of Air Pollution (coming soon)
-- `R-basic` [Solutions](https://github.com/TakaakiKishida/Textbook-Solution-Code-for-Quantitative-Social-Science-An-Introduction) for exercises from Kosuke Imai's [Quantitative Social Science](https://press.princeton.edu/books/quantitative-social-science). Created in my 2nd year of learning R in 2018.
+- `R-basic` [Solutions](https://github.com/takaakikishida/Textbook-Solution-Code-for-Quantitative-Social-Science-An-Introduction) for exercises from Kosuke Imai's [Quantitative Social Science](https://press.princeton.edu/books/quantitative-social-science). Created in my 2nd year of learning R in 2018.
 
 
 <!--
