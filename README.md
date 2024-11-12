@@ -4,7 +4,7 @@
 - Interested in Development and Environmental Economics.
 
 ### Featured works: 
-- `Article` [Deforestation and Children: Consequences for Paediatric Malaria and Educational Attainment in Indonesia](https://www.tandfonline.com/doi/full/10.1080/00220388.2024.2404561) (2024, JDS)
+- `Publication` [Deforestation and Children: Consequences for Paediatric Malaria and Educational Attainment in Indonesia](https://www.tandfonline.com/doi/full/10.1080/00220388.2024.2404561) (2024, JDS)
 
 ### Explorations in R: 
 - `Summary Stats` [{easysum}](https://github.com/takakishi/easysum) has several wrapper functions for quick and insightful summary statistics.
