@@ -1,5 +1,5 @@
 ### About me: 
-- PhD candidate in Economics at the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/), University of Geneva.
+- PhD student in Economics at the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/), University of Geneva.
 - R and GIS enthusiast, diving deep into causal inference. Equally adept with Stata.
 - Interested in Development and Environmental Economics.
 
