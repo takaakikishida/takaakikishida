@@ -1,10 +1,10 @@
 ### About me: 
-- PhD student in Economics at the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/), University of Geneva.
-- R and GIS enthusiast, diving deep into causal inference. Equally adept with Stata.
-- Interested in Development and Environmental Economics.
+- PhD student in Economics at [University of Geneva](https://www.unige.ch/gsem/en/research/institutes/iee/).
+- Interested in Environmental and Development Economics.
+- R and GIS enthusiast, equally adept with Stata.
 
 ### Featured works: 
-- `Publication` [Deforestation and Children: Consequences for Paediatric Malaria and Educational Attainment in Indonesia](https://www.tandfonline.com/doi/full/10.1080/00220388.2024.2404561) (2024, JDS)
+- `Publication` [Deforestation and Children in Indonesia](https://www.tandfonline.com/doi/full/10.1080/00220388.2024.2404561) (2024, JDS)
 
 ### Explorations in R: 
 - `Package` [{easysum}](https://github.com/takakishi/easysum) has several wrapper functions for quick and insightful summary statistics.
