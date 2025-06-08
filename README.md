@@ -4,7 +4,8 @@
 - R and GIS enthusiast, equally adept with Stata.
 
 ### Featured works: 
-- `Publication` [Deforestation and Children in Indonesia](https://www.tandfonline.com/doi/full/10.1080/00220388.2024.2404561) (2024, JDS)
+- Currently developing a new research project on (scalable) deep learning applications in environmental economics.
+- `Publication` [Deforestation and Children in Indonesia](https://www.tandfonline.com/doi/full/10.1080/00220388.2024.2404561) (2024, JDS).
 
 ### Explorations in R: 
 - `Package` [{easysum}](https://github.com/takakishi/easysum) has several wrapper functions for quick and insightful summary statistics.
