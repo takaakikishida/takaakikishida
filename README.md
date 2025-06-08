@@ -10,4 +10,3 @@
 - `Package` [{easysum}](https://github.com/takakishi/easysum) has several wrapper functions for quick and insightful summary statistics.
 - `Shiny App` Interactive map of my favorite places in Switzerland, hosted on [shinyapps.io](https://takaakikishida.shinyapps.io/swiss_maps/).
 - `R-GIS` Raster (GeoTiff/NetCDF) Analysis in R: An Example of Air Pollution (coming soon).
-- `R-basic` [Solutions](https://github.com/takaakikishida/Textbook-Solution-Code-for-Quantitative-Social-Science-An-Introduction) for exercises from [Quantitative Social Science](https://press.princeton.edu/books/quantitative-social-science), created in my 2nd year of learning R in 2018.
