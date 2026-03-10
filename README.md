@@ -4,10 +4,10 @@
 - R and GIS enthusiast, equally adept with Stata.
 
 ### Featured works: 
-- Currently developing a new research project on (scalable) deep learning applications in environmental economics.
+- Currently developing a new research project on deep learning applications in environmental economics.
 - `Publication` [Deforestation and Children in Indonesia](https://www.tandfonline.com/doi/full/10.1080/00220388.2024.2404561) (2024, JDS).
 
-### Explorations in R: 
+### R: 
 - `Package` [{easysum}](https://github.com/takakishi/easysum) has several wrapper functions for quick and insightful summary statistics.
 - `Shiny App` Interactive map of my favorite places in Switzerland, hosted on [shinyapps.io](https://takaakikishida.shinyapps.io/swiss_maps/).
 - `R-GIS` Raster (GeoTiff/NetCDF) Analysis in R: An Example of Air Pollution (coming soon).
