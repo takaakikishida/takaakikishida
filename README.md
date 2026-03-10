@@ -10,4 +10,4 @@
 ### R: 
 - `Package` [{easysum}](https://github.com/takakishi/easysum) has several wrapper functions for quick and insightful summary statistics.
 - `Shiny App` Interactive map of my favorite places in Switzerland, hosted on [shinyapps.io](https://takaakikishida.shinyapps.io/swiss_maps/).
-- `R-GIS` Raster (GeoTiff/NetCDF) Analysis in R: An Example of Air Pollution (coming soon).
+- `R-GIS` Raster (GeoTiff/NetCDF) analysis in R: An example of air pollution (coming soon).
