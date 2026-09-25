@@ -1,13 +1,8 @@
 ### About me: 
-- PhD student in Economics at [University of Geneva](https://www.unige.ch/gsem/en/research/institutes/iee/).
-- Interested in Environmental and Development Economics.
-- R and GIS enthusiast, equally adept with Stata.
+- PhD Candidate in Economics at [University of Geneva](https://www.unige.ch/gsem/en/research/institutes/iee/).
 
 ### Featured works: 
-- Currently developing a new research project on deep learning applications in environmental economics.
 - `Publication` [Deforestation and Children in Indonesia](https://www.tandfonline.com/doi/full/10.1080/00220388.2024.2404561) (2024, JDS).
 
 ### R: 
 - `Package` [{easysum}](https://github.com/takakishi/easysum) has several wrapper functions for quick and insightful summary statistics.
-- `Shiny App` Interactive map of my favorite places in Switzerland, hosted on [shinyapps.io](https://takaakikishida.shinyapps.io/swiss_maps/).
-- `R-GIS` Raster (GeoTiff/NetCDF) analysis in R: An example of air pollution (coming soon).
