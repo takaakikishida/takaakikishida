@@ -1,6 +1,6 @@
 ### About me: 
-- PhD Candidate in Economics at [University of Geneva](https://www.unige.ch/gsem/en/research/institutes/iee/).
-- Interested in Environmental and Urban/Spatial Economics.
+- PhD candidate in Economics at [University of Geneva](https://www.unige.ch/gsem/en/research/institutes/iee/).
+- Interested in environmental, urban, spatial, and development economics.
 
 ### Featured works: 
 - To be updated. 
